@@ -8,7 +8,7 @@ using NUnit.Framework;
 
 namespace AdventOfCode
 {
-    [TestFixture]
+    [TestFixture,Explicit]
     public class Day6
     {
         [Test]
