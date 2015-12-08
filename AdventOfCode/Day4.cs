@@ -5,7 +5,6 @@ using NUnit.Framework;
 namespace AdventOfCode
 {
     [TestFixture]
-    [Explicit("Not very fast")]
     public class Day4
     {
         [Test]
